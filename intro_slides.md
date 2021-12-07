@@ -6,7 +6,7 @@ revealOptions:
     progress: True
 ---
 
-## Summer 2021 
+## Autumn 2021 
 # Quarterly Data Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
