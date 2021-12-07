@@ -87,13 +87,13 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course GitHub repository
 
-https://smithsonianworkshops.github.io/2021-08-24-smithsonian/
+https://smithsonianworkshops.github.io/2021-12-09-smithsonian-online/
 
 ---
 
 ## Course EtherPad
 
-https://pad.carpentries.org/2021-08-24-smithsonian
+pad.carpentries.org/2021-12-09-smithsonian-online 
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
@@ -116,27 +116,27 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 ## Day One (Today)
 
 ### Tidy Data Principles in Spreadsheets
-### OpenRefine
+### Introduction to R and R Studio
 
 ---
 
 ## Day Two (Tomorrow)
 
-### SQL
+### Data manipulation and visualization using R
 
 ---
 
-## Day Three (next Tues)
+## Day Three (next Thu)
 
-### Intro to Python and Jupyter
-### Working with data with Pandas
+### Open Refine
+
 
 ---
 
-## Day Four (next Wed)
+## Day Four (next Fri)
 
-### Combining dataframes with Pandas
-### Making plots with plotnine
+### Version control with Git
+
 
 ---
 
