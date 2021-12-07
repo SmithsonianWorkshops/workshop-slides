@@ -103,7 +103,7 @@ A collaborative document – think of it as a stripped-down version of Google Do
 
 * Go to the EtherPad
 
-* Add your name, unit, and your favorite type of cookie (or other sweet treat) under Attendance Day 1
+* Add your name, unit, and answer the icebreaker question under Attendance for today
 
 ---
 
