@@ -6,7 +6,7 @@ revealOptions:
     progress: True
 ---
 
-## Autumn 2021 
+
 # Quarterly Data Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
@@ -87,13 +87,9 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course GitHub repository
 
-https://smithsonianworkshops.github.io/2021-12-09-smithsonian-online/
-
 ---
 
 ## Course EtherPad
-
-pad.carpentries.org/2021-12-09-smithsonian-online 
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
@@ -113,29 +109,29 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 
 ---
 
-## Day One (Today)
+## Day One (March 30)
 
 ### Tidy Data Principles in Spreadsheets
-### Introduction to R and R Studio
+### OpenRefine for Data Cleaning
 
 ---
 
-## Day Two (Tomorrow)
+## Day Two (March 31)
 
-### Data manipulation and visualization using R
-
----
-
-## Day Three (next Thu)
-
-### Open Refine
-
+### Querying Data with SQL
 
 ---
 
-## Day Four (next Fri)
+## Day Three (April 6)
 
-### Version control with Git
+### Introduction to Python
+
+
+---
+
+## Day Four (April 7)
+
+### Data Analysis and Visualization with Python
 
 
 ---
