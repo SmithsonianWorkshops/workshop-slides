@@ -109,27 +109,27 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 
 ---
 
-## Day One (March 30)
+## Day One (June 21)
 
 ### Tidy Data Principles in Spreadsheets
 ### OpenRefine for Data Cleaning
 
 ---
 
-## Day Two (March 31)
+## Day Two (June 22)
 
 ### Querying Data with SQL
 
 ---
 
-## Day Three (April 6)
+## Day Three (June 28)
 
 ### Introduction to Python
 
 
 ---
 
-## Day Four (April 7)
+## Day Four (June 29)
 
 ### Data Analysis and Visualization with Python
 
