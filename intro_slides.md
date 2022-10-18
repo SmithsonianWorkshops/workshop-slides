@@ -85,13 +85,17 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ---
 
-## Course GitHub repository
+## Course website
+
+https://smithsonianworkshops.github.io/2022-autumn-smithsonian/
 
 ---
 
 ## Course EtherPad
 
 A collaborative document – think of it as a stripped-down version of Google Docs
+
+https://pad.carpentries.org/2022-autumn-smithsonian
 
 ---
 
@@ -109,29 +113,22 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 
 ---
 
-## Day One (June 21)
+## Day One (October 18)
+
+### Version Control with GitHub
+
+---
+
+## Day Two (October 19)
 
 ### Tidy Data Principles in Spreadsheets
 ### OpenRefine for Data Cleaning
 
 ---
 
-## Day Two (June 22)
+## Day Three and Four (October 25/26)
 
-### Querying Data with SQL
-
----
-
-## Day Three (June 28)
-
-### Introduction to Python
-
-
----
-
-## Day Four (June 29)
-
-### Data Analysis and Visualization with Python
+### Introduction to R
 
 
 ---
