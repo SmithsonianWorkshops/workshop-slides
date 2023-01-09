@@ -13,16 +13,17 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install dependencies & Build Presentation
-        run: sudo npm install -g reveal-md puppeteer --unsafe-perm
-      - name: Build presentation pdf slides
-        run: DEBUG=reveal-md reveal-md intro_slides.md --print intro_slides.pdf
-      - name: Publish pdf slides
-        run: |
-          git config user.name github-actions
-          git config user.email triznam@si.edu
-          git add .
-          git commit -m "rebuilt slide pdf"
-          git push
+        run: sudo npm install -g reveal-md
+#        run: sudo npm install -g reveal-md puppeteer --unsafe-perm
+#      - name: Build presentation pdf slides
+#        run: DEBUG=reveal-md reveal-md intro_slides.md --print intro_slides.pdf
+#      - name: Publish pdf slides
+#        run: |
+#          git config user.name github-actions
+#          git config user.email triznam@si.edu
+#          git add .
+#          git commit -m "rebuilt slide pdf"
+#          git push
       - name: Build presentation slides HTML
         run: DEBUG=reveal-md reveal-md intro_slides.md --static intro_slides
       # Push the site's HTML to github-pages
