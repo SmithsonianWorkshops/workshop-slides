@@ -113,20 +113,20 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 
 ---
 
-## Day One (January 9)
+## Day One (Mon, January 9)
 
 ### The Unix Shell
 
 ---
 
-## Day Two (January 10)
+## Day Two (Tue, January 10)
 
 ### Regular Expressions
 ### OpenRefine for Data Cleaning
 
 ---
 
-## Day Three (January 11)
+## Day Three (Wed, January 11)
 
 ### Version Control with GitHub
 
