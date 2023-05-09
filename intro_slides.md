@@ -7,7 +7,7 @@ revealOptions:
 ---
 
 
-# Quarterly Carpentry (Library) Workshop
+# Spring Quarterly Data Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
 
@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonian.github.io/2023-01-09-smithsonian-online/
+https://smithsonianworkshops.github.io/2023-05-09-smithsonian/ 
 
 ---
 
@@ -95,7 +95,7 @@ https://smithsonian.github.io/2023-01-09-smithsonian-online/
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
-https://pad.carpentries.org/2023-01-09-smithsonian-online
+https://pad.carpentries.org/2023-05-09-smithsonian
 
 ---
 
@@ -113,22 +113,22 @@ We will be teaching you data organization, cleaning, and visualization skills, s
 
 ---
 
-## Day One (Mon, January 9)
+## Day One (Tuesday, May 9)
 
-### The Unix Shell
-
----
-
-## Day Two (Tue, January 10)
-
-### Regular Expressions
-### OpenRefine for Data Cleaning
+### Tidy Data in Spreadsheets
+### OepnRefine
 
 ---
 
-## Day Three (Wed, January 11)
+## Day Two (Wednesday, May 10)
 
-### Version Control with GitHub
+### Collaborating and Sharing with GitHub
+
+---
+
+## Day Three and Four (Tues/Wed, May 16/17)
+
+### Data Analysis and Visualization with Python
 
 
 ---
