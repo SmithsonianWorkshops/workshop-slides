@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonianworkshops.github.io/2024-01-smithsonian-online/ 
+https://smithsonian.github.io/2024-01-smithsonian-online/
 
 ---
 
