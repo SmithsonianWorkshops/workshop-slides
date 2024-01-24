@@ -113,23 +113,23 @@ Library Carpentry introduces you to the fundamentals of computing and provides y
 
 ---
 
-## Day One (Tuesday, Jan 24)
+## Day One (Wednesday, Jan 24)
 
 ### The Unix Shell
 
 
 ---
 
-## Day Two (Wednesday, Jan 25)
+## Day Two (Thursday, Jan 25)
 
 ### Collaborating and Sharing with GitHub
 
 ---
 
-## Day Three (Thurs, Jan 26)
+## Day Three (Friday, Jan 26)
 
-### Regular Expressions
-### OpenRefine
+### Regular Expressions (1-2pm)
+### OpenRefine (2:15-4pm)
 
 ---
 
