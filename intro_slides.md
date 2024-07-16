@@ -7,7 +7,7 @@ revealOptions:
 ---
 
 
-# Winter Library Carpentry Workshop
+# Summer Intern Data Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
 
@@ -71,7 +71,7 @@ Odds of running into an error are high, but don’t panic – this is a great op
 
 ### How to make sure we don't leave you behind
 
-In the real world, we used to use Post-It notes to indicate progress, but for this workshop we'll use the "yes" / "no" buttons in the Zoom Reactions panel.
+In the real world, we used to use Post-It notes to indicate progress, but for this workshop we'll also use the "yes" / "no" buttons in the Zoom Reactions panel.
 
 ![Zoom Yes No](images/zoom_screenshot.png)
 
@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonian.github.io/2024-01-smithsonian-online/
+[https://smithsonian.github.io/2024-01-smithsonian-online/](https://smithsonian.github.io/2024-07-16-smithsonian/)
 
 ---
 
@@ -95,7 +95,7 @@ https://smithsonian.github.io/2024-01-smithsonian-online/
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
-https://pad.carpentries.org/2024-01-smithsonian-online
+[https://pad.carpentries.org/2024-01-smithsonian-online](https://pad.carpentries.org/2024-07-16-smithsonian)
 
 ---
 
@@ -109,27 +109,7 @@ https://pad.carpentries.org/2024-01-smithsonian-online
 
 ## What we will be teaching in this workshop
 
-Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
-
----
-
-## Day One (Wednesday, Jan 24)
-
-### The Unix Shell
-
-
----
-
-## Day Two (Thursday, Jan 25)
-
-### Collaborating and Sharing with GitHub
-
----
-
-## Day Three (Friday, Jan 26)
-
-### Regular Expressions (1-2pm)
-### OpenRefine (2:15-4pm)
+Data Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
 
 ---
 
