@@ -7,7 +7,7 @@ revealOptions:
 ---
 
 
-# Winter Library Data Carpentry Workshop
+# Winter Library Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
 
