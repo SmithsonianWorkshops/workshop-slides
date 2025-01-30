@@ -1,0 +1,63 @@
+---
+title: "Carpentry Workshop Wrap-up"
+author: "Smithsonian Carpentries"
+format:
+  revealjs:
+    center: true
+theme: solarized
+---
+
+# Carpentry Workshop Wrap-Up
+
+---
+
+## Thank You!
+
+### Thank you all for your hard work!
+
+### Big thanks to our Instructors, Helpers, and Workshop Organizer!
+
+---
+
+### Where to go from here?
+
+> Success is the sum of small efforts, repeated day in and day out.
+ -- Robert Collier
+
+**Practice the tools you learned during this workshop with your own data!**
+
+---
+
+## Staying in Touch: Carpentries Website
+
+<https://datascience.si.edu/carpentries>
+
+[![](images/si-carpentries-website.png){fig-alt="SI Carpentries Website"}](https://datascience.si.edu/carpentries){width=70%}
+
+---
+
+## Staying in Touch: Email
+
+- Feel free to email any of the Instructors or Helpers directly.
+
+- For other data and/or Carpentries-related questions: <carpentries@si.edu>
+
+---
+
+## Staying in Touch: Carpentries Microsoft Team
+
+- You can access the "SI-Carpentries" Microsoft Team with this [direct link](https://teams.microsoft.com/l/team/19%3Aacffb6ba096b4fb0ad93595df6e89220%40thread.tacv2/conversations?groupId=2e7c0abd-0ad8-4de0-bcf3-05af4b99aa38&tenantId=989b5e2a-14e4-4efe-93b7-8cdd5fc5d11c). 
+
+- You can share relevant links, tutorials, etc. about Carpentries tools and topics.
+
+---
+
+## Become an Instructor
+
+Apply to join the SI Carpentries Instructor team! We are always looking for Smithsonian staff and fellows to be trained to join our team of Instructors.
+
+No prior teaching experience is necessary, but alumni of the Carpentries workshops would make great candidates.
+
+You can apply at: <https://forms.office.com/r/Qi9xEmhGpY>.
+
+(*This link also exists as a big blue button on the SI Carpentries website*)
