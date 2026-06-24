@@ -7,7 +7,7 @@ revealOptions:
 ---
 
 
-# Winter Library Carpentry Workshop
+# Summer Intern Carpentry-style Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
 
@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonian.github.io/2026-01-27-smithsonian-online/
+https://smithsonian.github.io/2026-06-23-smithsonian/
 
 ---
 
@@ -95,7 +95,7 @@ https://smithsonian.github.io/2026-01-27-smithsonian-online/
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
-https://pad.carpentries.org/2026-01-27-smithsonian-online
+https://pad.carpentries.org/2026-06-23-smithsonian
 
 ---
 
@@ -109,7 +109,7 @@ https://pad.carpentries.org/2026-01-27-smithsonian-online
 
 ## What we will be teaching in this workshop
 
-Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
+Carpentry workshops introduce you to the fundamentals of computing and provide you with a platform for further self-directed learning.
 
 ---
 
